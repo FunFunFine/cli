@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /Users/avoitsishevskiievolution.com/dev/cli/src/main/scala/DayThirteen.scala:73:63 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m73 |[0m        [33mval[0m [36minvertedRightPoints[0m       = rightPoints.map { [33mcase[0m (Point(x, y), data) =>[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                               [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |this case is unreachable since type Point and [33mclass[0m [35mTuple2[0m are unrelated[0m
+[0m[[0m[31merror[0m] [0m[0m[31m-- Error: /Users/avoitsishevskiievolution.com/dev/cli/src/main/scala/DayThirteen.scala:83:64 [0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m83 |[0m        [33mval[0m [36minvertedPointsBelow[0m        = pointsBelow.map { [33mcase[0m (Point(x, y), data) =>[0m
+[0m[[0m[31merror[0m] [0m[0m   |                                                                [31m^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m   |this case is unreachable since type Point and [33mclass[0m [35mTuple2[0m are unrelated[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
