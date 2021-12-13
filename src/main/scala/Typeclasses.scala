@@ -1,3 +1,5 @@
+package tc
+
 trait Semigroup[A]:
   def combine(l: A, r: A): A
   extension (l: A) def <+>(r: A): A = combine(l, r)

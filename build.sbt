@@ -1,6 +1,6 @@
 val zioVersion = "2.0.0-M6-2"
 
-scalaVersion := "3.1.1-RC1"
+scalaVersion := "3.1.2-RC1-bin-20211213-8e1054e-NIGHTLY"
 
 libraryDependencies ++= Seq(
   "dev.zio" %% "zio"          % zioVersion,

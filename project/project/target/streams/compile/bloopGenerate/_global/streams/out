@@ -1,0 +1,4 @@
+[debug] [cli-build-build] Classpath dependencies List()
+[debug] [cli-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'cli-build-build' to '/Users/avoitsishevskiievolution.com/dev/cli/project/project/.bloop/cli-build-build.json'
+[success] Generated .bloop/cli-build-build.json

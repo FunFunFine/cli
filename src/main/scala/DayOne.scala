@@ -7,8 +7,6 @@ import zio.stream.ZPipeline.WithOut
 object DayOne:
   def run = TaskOne.answer.flatMap(answer => print(answer))
 
-
-
 object TaskOne:
   val measurements: ZStream[Any, Throwable, Int] =
     ZStream

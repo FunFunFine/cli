@@ -1,3 +1,5 @@
+package io
+
 import zio.*
 import zio.Console.*
 import zio.stream.*
